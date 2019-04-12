@@ -3,7 +3,7 @@ You have run a temperature simulation of a 3D room that has 4 heat sources. You 
 
 You can use the same data from the scenario in Project #1. However, you don't have to use this data (i.e., created from the equation) if you have some other data you would prefer to use.  
 
-If you want to use the same data from the Project #1 equation, come get [scalar.csv](\file\scalar.csv)  
+If you want to use the same data from the Project #1 equation, come get [scalar.csv](file/scalar.csv)  
 
 # Requirements:
 Using ParaView,  
@@ -29,7 +29,7 @@ If you used your own data, tell me about it! What is it? Where did it come from?
 You don't need to create a video for this project.  
 
 # Extra Credit:
-Using one (or more) of your visualizations, generate stereopairs. I have a handheld stereoviewer you can use to try the stereopair images out in. Use this [PowerPoint slide](\file\JustStereoSlide.pptx) to lay your images on, then print the page, and cut them out. Bring them to my office.
+Using one (or more) of your visualizations, generate stereopairs. I have a handheld stereoviewer you can use to try the stereopair images out in. Use this [PowerPoint slide](file/JustStereoSlide.pptx) to lay your images on, then print the page, and cut them out. Bring them to my office.
 
 # ParaView Notes
 The Scalar Visualization portion of the ParaView notes (the parts that you will need, anyway) are on slides 21- 26 and slides 34 - 52. 
